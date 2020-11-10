@@ -8,3 +8,5 @@ is from a 3rd party and not the e-mail. It is possible however to get the e-mail
 address from the message body as it will contain the wrong e-mail address.
 The body of the e-mail will contain useful information such as error details,
 the body of the text send, and more importantly - the e-mail address it was sent to.   
+
+And I typrd cleam instead of clean when naming this repository.
